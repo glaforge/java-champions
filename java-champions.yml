@@ -1453,6 +1453,9 @@ members:
     city: Paris
     social:
       twitter: https://twitter.com/glaforge
+      mastodon: https://uwyn.net/@glaforge
+      blog: https://glaforge.appspot.com/
+      linkedin: https://www.linkedin.com/in/glaforge/
     avatar: images/avatars/glaforge.png
   - name: Marcus Lagergren
     year: 2016
